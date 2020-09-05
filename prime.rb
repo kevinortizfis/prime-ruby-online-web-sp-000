@@ -5,6 +5,6 @@ def prime(number)
       i += 1
     else "Not prime"
     end
-    puts "Prime"
+    "Prime"
   end
 end
