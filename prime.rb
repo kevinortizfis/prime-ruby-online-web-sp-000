@@ -3,7 +3,7 @@ def prime(number)
   while i < 10
     if number/i % != 0
       i += 1
-    else "Not prime"
+    else false
     end
     "Prime"
   end
