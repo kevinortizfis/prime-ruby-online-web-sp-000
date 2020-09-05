@@ -4,4 +4,7 @@ def prime(number)
     number/i
     if number % != 0
       i += 1
+    else puts "Not prime"
+    end
+  end
 end
