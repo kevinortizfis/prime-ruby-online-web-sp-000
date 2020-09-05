@@ -1,5 +1,5 @@
 def prime?(number)
-  i = 1
+  i = 2
   while i < 10
     if number % i != 0
       i += 1
